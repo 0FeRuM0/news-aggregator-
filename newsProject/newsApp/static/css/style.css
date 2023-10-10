@@ -1,0 +1,31 @@
+
+.card-news {
+    display: block;
+    padding: 10px 0;
+    text-decoration: none;
+    border: 1px solid #cecece;
+    margin: 10px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+}
+.card-news:hover {
+    background-color: #cecece;
+}
+.title, .date {
+    display: block;
+}
+.title {
+    color: black;
+    font-weight: 700;
+    font-size: 20px;
+}
+.date {
+    color: #4b4b4b;
+}
+.post-detail {
+    border-radius: 5px;
+    margin: 10px;
+    border: 1px solid #cecece;
+    padding: 20px 0;
+
+}
